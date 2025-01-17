@@ -1,2 +1,1 @@
-# EE541_Final_Project
-CV for American Sign Language
+# Computer Vision for American Sign Language
